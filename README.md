@@ -89,5 +89,14 @@ Dashboard
    ├── Salary
    └── Reports
 
+## 👥 Team Members / Related Repositories
+
+### Team Member 1
+[GitHub Repository](https://github.com/Arunapriya16/vehicle-workshop-database)
+
+### Team Member 2
+[GitHub Repository](https://github.com/Amalarose21/vehicle-workshop-crud)
+
 ## Author:
 **Bhuvana K**
+
